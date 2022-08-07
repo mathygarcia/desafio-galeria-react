@@ -1,0 +1,11 @@
+.container {
+    width: 100%;
+    background-color: #0F3D3E;
+    padding: 2%;
+}
+
+.titulo {
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
